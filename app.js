@@ -6,7 +6,7 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var stemmer = require('porter-stemmer').stemmer;
-var async = require('async');
+var async = require('asyncawait/async');
 var PORT = 3000
 
 //Own Modules

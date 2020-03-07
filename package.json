@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "async": "*",
+    "asyncawait": "^3.0.0",
     "aws-sdk": "*",
     "body-parser": "~1.15.2",
     "cookie-parser": "~1.4.3",
